@@ -25,7 +25,7 @@ Number two of the limited edition of three was sold to cryptocurrency entreprene
 [web-drawing-001 2019](https://artist-nemo.github.io/web-drawing-001/webdrawing001.html)
 
 ### Help Love Art - interactive art
-[Help Love Art 2016](https://github.com/artist-nemo/web-drawing-001/commit/9ece976dbf445c6641b6db6ae7dd8e3587a8a169#diff-e3d0b1246dfad77da58aba7c42dd80508d5ceceb6049597880ba36cce3814ff6)
+[Help Love Art 2016](https://raw.githubusercontent.com/artist-nemo/web-drawing-001/9ece976dbf445c6641b6db6ae7dd8e3587a8a169/2016/20190126_123957.jpg)
 
 <br/>
 <br/>
