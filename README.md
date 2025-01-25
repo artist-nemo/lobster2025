@@ -7,7 +7,7 @@ by Nemo <nemo@luxelorev.com>
 
 [Comedian](https://en.wikipedia.org/wiki/Comedian_(artwork)) is a 2019 artwork by Italian artist [Maurizio Cattelan](https://en.wikipedia.org/wiki/Maurizio_Cattelan). Created in an edition of three, it appears as a fresh banana affixed to a wall with duct tape. 
 
-<img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rembrandt_Harmensz._van_Rijn_076.jpg/785px-Rembrandt_Harmensz._van_Rijn_076.jpg">
+<img height="200" src="https://upload.wikimedia.org/wikipedia/en/d/d7/COMEDIAN_banana_artwork.jpg">
 
 As a work of conceptual art, it consists of a certificate of authenticity with detailed diagrams and instructions for its proper display.
 
