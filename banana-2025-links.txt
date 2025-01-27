@@ -1,15 +1,11 @@
-banana 2025 links
+banana/lobster 2025 links
 
-https://play.google.com/store/apps/details?id=com.artivive&hl=en_US
-
-https://apps.apple.com/us/app/artivive/id1188737494
-
-https://artist-nemo.github.io/lostart/
+https://artist-nemo.github.io/lobster2025/
 
 https://app.rebrandly.com/links
 
-https://bridge.artivive.com/#!/
+https://github.com/artist-nemo/lobster2025
 
-https://github.com/artist-nemo/lostart
+https://app.qr-code-generator.com/manage/75298149/insights
 
 
